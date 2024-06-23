@@ -26,7 +26,7 @@
                 <br>
                 <div class="form-group">
                     <label for="altura">Altura:</label>
-                    <input type="number" name="altura" class='form-control' step='0.010' placeholder="Digite sua altura" required>
+                    <input type="number" name="altura" class='form-control'placeholder="Digite sua altura" required>
                 </div> 
                 <br>
                 <div class="form-group">
